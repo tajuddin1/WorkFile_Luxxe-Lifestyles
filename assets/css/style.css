@@ -103,6 +103,8 @@ a {
   align-items: center;
   justify-content: end;
   padding: 25px;
+  background: #8b8b8b5c;
+  z-index: 1;
 }
 
 .card-link .link-text {
