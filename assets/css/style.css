@@ -120,17 +120,18 @@ a {
 }
 
 .card-link .link-text svg {
-  width: 60px;
+  width: 120px;
+  height: 120px;
   position: absolute;
-  top: -11px;
-  right: 0;
+  top: -42px;
+  right: -20px;
   color: var(--color-secondary);
   transition: 0.4s ease
 }
 
 .card-link:hover .link-text svg {
   color: var(--color-secondary);
-  right: -5px;
+  right: -25px;
 }
 
 .card-link:hover .link-text {
@@ -151,8 +152,10 @@ a {
   }
 
   .card-link .link-text svg {
-    width: 40px;
-    top: -6px;
+    width: 90px;
+    height: 90px;
+    top: -31px;
+    right: -20px;
   }
 
   .card-link .link-text {
@@ -223,7 +226,8 @@ a {
   }
 
   .card-link .link-text svg {
-    width: 35px;
-    top: -6px;
+    width: 80px;
+    height: 80px;
+    top: -29px;
   }
 }
