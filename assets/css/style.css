@@ -103,7 +103,7 @@ a {
   align-items: center;
   justify-content: end;
   padding: 25px;
-  background: #8b8b8b5c;
+  background: #2929295c;
   z-index: 1;
 }
 
@@ -124,7 +124,7 @@ a {
   position: absolute;
   top: -11px;
   right: 0;
-  color: var(--color-primary);
+  color: var(--color-secondary);
   transition: 0.4s ease
 }
 
