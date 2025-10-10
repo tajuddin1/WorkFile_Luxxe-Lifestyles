@@ -180,7 +180,7 @@ a {
 
 @media screen and (max-width: 590px) {
   .hero-section {
-    min-height: 400px;
+    min-height: 350px;
     background-image: url(../images/mobile_slider_slim_template_SLVTPLink.jpg);
   }
 
