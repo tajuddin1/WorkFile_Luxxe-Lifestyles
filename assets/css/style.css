@@ -70,6 +70,10 @@ a {
   background-position: center;
 }
 
+.title-primary-lg {
+  font-size: 74px;
+}
+
 .title-primary {
   font-size: 54px;
 }
@@ -139,6 +143,10 @@ a {
 }
 
 @media screen and (max-width: 991px) {
+  .title-primary-lg {
+    font-size: 64px;
+  }
+
   .title-primary {
     font-size: 42px;
   }
@@ -184,6 +192,10 @@ a {
     background-image: url(../images/mobile_slider_slim_template_SLVTPLink.jpg);
   }
 
+  .title-primary-lg {
+    font-size: 48px;
+  }
+
   .title-primary {
     font-size: 32px;
     line-height: 1.1;
@@ -207,7 +219,9 @@ a {
   .hero-section {
     min-height: 300px;
   }
-
+.title-primary-lg {
+  font-size: 42px;
+}
   .title-primary {
     font-size: 28px;
   }
